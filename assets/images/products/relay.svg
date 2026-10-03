@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#e51b23" stroke-opacity=".08"/></pattern></defs>
+<rect width="800" height="560" rx="30" fill="#090b0f"/><rect width="800" height="560" fill="url(#grid)"/>
+<rect x="105" y="90" width="590" height="340" rx="26" fill="#12161d" stroke="#e51b23" stroke-width="3" stroke-opacity=".7"/>
+<circle cx="400" cy="250" r="100" fill="#171c24" stroke="#e51b23" stroke-width="4"/>
+<path d="M290 250h220M400 140v220M325 175l150 150M475 175L325 325" stroke="#bfc5ce" stroke-opacity=".35" stroke-width="6"/>
+<text x="400" y="240" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="800">2CH</text>
+<text x="400" y="282" text-anchor="middle" fill="#e51b23" font-family="Arial,sans-serif" font-size="20">RELAY</text>
+<text x="400" y="480" text-anchor="middle" fill="#8f98a5" font-family="Arial,sans-serif" font-size="16">CLTX4 MARKETPLACE • REPLACE WITH YOUR PHOTO</text>
+</svg>
